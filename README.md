@@ -1,1 +1,1 @@
-My first readme
+Sage is preparing hard for the hard things
